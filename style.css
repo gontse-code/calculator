@@ -1,0 +1,133 @@
+body {
+  background-color: #222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+}
+
+table {
+  color: #fff;
+  text-align: center;
+  border-collapse: collapse;
+  font: normal 2em Arial, Helvetica, sans-serif;
+}
+
+tr {
+  height: 16.02vh;
+  background-color: #4e494d;
+}
+
+td {
+  width: 25vw;
+  border: 1px solid #4e494d;
+  padding: 10px;
+}
+
+#inputBox {
+  background-color: #4e494d;
+  text-align: right;
+  width: 100%;
+  font-size: 2em;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+button {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.digitButton {
+  background-color: #e0238b;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.operatorButton {
+  background-color: #920b92;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.ACButton {
+  background-color: #656165;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+button:hover {
+  opacity: 0.9;
+}
+table {
+  color: #fff;
+  text-align: center;
+  border-collapse: collapse;
+  font: normal 2em Arial, Helvetica, sans-serif;
+}
+
+tr {
+  height: 16.02vh;
+  background-color: #4e494d;
+}
+
+td {
+  width: 25vw;
+  border: 1px solid #4e494d;
+  padding: 10px;
+}
+
+#inputBox {
+  background-color: #4e494d;
+  text-align: right;
+  width: 100%;
+  font-size: 2em;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+button {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.digitButton {
+  background-color: #e0238b;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.operatorButton {
+  background-color: #920b92;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.ACButton {
+  background-color: #656165;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+button:hover {
+  opacity: 0.9;
+}
